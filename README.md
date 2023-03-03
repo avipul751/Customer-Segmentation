@@ -3,4 +3,4 @@ Customer Segmentation is the subdivision of a market into discrete customer grou
 
 Prior to any analysis and segmentation, data is preprocessed as per the demands. Major problem in this dataset was the existence of outliers.
 
-We have tried different clustering techniques to create discrete customer groups like KMeans clustering, Birch clustering, and Hierarchical clustering.
+We have tried different clustering techniques to create discrete customer groups like KMeans, DBSCAN, Gaussian Mixture Models and Hierarchical clustering.
